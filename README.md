@@ -1,7 +1,7 @@
 Facebook Card
 ===
 
- _**"No more biz cards; install Facebook Card in your iPhone instead."**_
+ _**"No more biz cards; install Facebook Card in your smart-phone instead."**_
 --
 
 ![Sample](http://dl.dropbox.com/u/2819285/facebook-card-sample.jpg)
